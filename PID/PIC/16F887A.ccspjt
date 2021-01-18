@@ -1,0 +1,38 @@
+[PROJECT]
+Target=16F887A.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.025
+Compiler=PCM
+CCSVersion=5.025
+[Target Data]
+FileList=16F887A.c
+[Directories]
+Include=
+[C:\Users\HERNÁNDEZ\Downloads\16F887A]
+Type=4
+[mru-list]
+1=16F887A.c
+
+[ProjectLog]
+Days=1
+D1=17-01-2021
+D1_L=6
+D1_L1=[74730]Project Opened.
+D1_L2=[74779]Started Editing.
+D1_L3=[75079]Stopped Editing.
+D1_L4=[75181]Started Editing.
+D1_L5=[75420]Stopped Editing.
+TotalEdit=4
+TotalDebug=0
+D1_E=4
+D1_D=0
+D1_L6=[75420]Project Closed.
+
+[Opened Files]
+1=16F887A.c
+2=
+[16F887A.c]
+Type=4
+[Units]
+Count=1
+1=16F887A (main)
